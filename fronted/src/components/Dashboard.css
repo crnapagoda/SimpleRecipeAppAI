@@ -1,0 +1,28 @@
+.dashboard {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h2 {
+  color: #343a40;
+}
+
+.dashboard .btn {
+  margin-top: 10px;
+}
+
+.dashboard .list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dashboard .list-group-item h4 {
+  margin: 0;
+}
+
+.dashboard .list-group-item .btn {
+  margin-left: 10px;
+}

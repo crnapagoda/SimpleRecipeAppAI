@@ -1,0 +1,17 @@
+.recipe-detail {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-detail h2 {
+  color: #343a40;
+}
+
+.recipe-detail .list-group-item {
+  background-color: #f1f1f1;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 4px;
+}

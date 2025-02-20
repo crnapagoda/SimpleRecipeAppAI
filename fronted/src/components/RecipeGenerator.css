@@ -1,0 +1,72 @@
+.recipe-generator {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-generator h2 {
+  color: #343a40;
+}
+
+.recipe-generator .form-group {
+  margin-bottom: 15px;
+}
+
+.recipe-generator label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.recipe-generator input,
+.recipe-generator select,
+.recipe-generator textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.recipe-generator button {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.recipe-generator button:hover {
+  background-color: #0056b3;
+}
+
+.recipe-generator .recipe {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.recipe-generator .recipe h3 {
+  margin-top: 0;
+}
+
+.recipe-generator .recipe ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.recipe-generator .recipe ul li {
+  background-color: #f1f1f1;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.recipe-generator .recipe p,
+.recipe-generator .recipe li {
+  margin: 5px 0;
+}
